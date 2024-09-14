@@ -27,7 +27,7 @@ app.use("/api/cart", cartRouter);
 app.use("/api/order", orderRouter);
 
 app.get("/", (req, res) => {
-  res.send(`Application live at: ${https://food-app-frontend-k4tp.onrender.com}`);
+  res.send("Application live at: https://food-app-frontend-k4tp.onrender.com);
 });
 
 app.listen(port, () => {
