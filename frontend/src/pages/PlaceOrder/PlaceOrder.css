@@ -35,4 +35,5 @@
 }
 .place-order .cart-total button:focus {
     cursor: not-allowed;
+    background-color: #ffa191;
 }
