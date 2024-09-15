@@ -64,3 +64,6 @@
     font-weight: 500;
     cursor: pointer;
 }
+.login-popup-container button:focus {
+    cursor: not-allowed;
+}
