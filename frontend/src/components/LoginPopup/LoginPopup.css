@@ -66,4 +66,5 @@
 }
 .login-popup-container button:focus {
     cursor: not-allowed;
+    background-color: #ffa191;
 }
