@@ -47,12 +47,10 @@ const PlaceOrder = () => {
     let response = await axios.post(url + "/api/order/place", orderData, {
       headers: { token },
     });
-    console.log(response);
-    toast.success(response.data);
     const { target_url } = response.data;
     setTimeout(() => {
       window.location.replace(target_url);
-    }, 5000);
+    }, 4500);
     toast.success("Order placed successfully");
   };
 
