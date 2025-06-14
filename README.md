@@ -7,8 +7,8 @@ A complete Full-Stack Food Ordering Application built using **MERN Stack** (Mong
 
 ## 🚀 Services Live At
 
-- **User App:** [https://food-user-render-url](https://food-app-frontend-k4tp.onrender.com)  
-- **Admin Dashboard:** [https://food-admin-render-url](https://food-app-admin-gn2s.onrender.com/orders)  
+- **User App:** [Food Go](https://food-app-frontend-k4tp.onrender.com)  
+- **Admin Dashboard:** [Food Go Admin](https://food-app-admin-gn2s.onrender.com/orders)  
 
 ---
 
