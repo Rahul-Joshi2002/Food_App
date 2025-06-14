@@ -8,7 +8,7 @@ A complete Full-Stack Food Ordering Application built using **MERN Stack** (Mong
 ## 🚀 Services Live At
 
 - **User App:** [Food Go](https://food-app-frontend-k4tp.onrender.com)  
-- **Admin Dashboard:** [Food Go Admin](https://food-app-admin-gn2s.onrender.com/orders)  
+- **Admin Dashboard:** [Food Go Admin](https://food-app-admin-gn2s.onrender.com)  
 
 ---
 
@@ -30,5 +30,4 @@ A complete Full-Stack Food Ordering Application built using **MERN Stack** (Mong
 ### Admin Dashboard
 - View, add, update, and delete dishes 🍽️
 - Track incoming orders in real-time 📦
-- Change order status (e.g., Preparing, Out for Delivery, Delivered) 🔄
-
+- Change order status (e.g., Order Processing ⏳, Out for Delivery 🚚, Order Delivered ✅) 🔄
